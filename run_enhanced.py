@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
 AI夏令营音频生成竞赛 - 增强版启动脚本
 支持F5TTS和GPT-SoVITS两种模型选择
-好版本
+好版本正在更新中
 """
 
 
